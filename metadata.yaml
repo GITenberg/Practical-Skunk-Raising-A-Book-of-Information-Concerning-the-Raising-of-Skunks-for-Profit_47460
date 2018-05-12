@@ -1,10 +1,16 @@
 _repo: Practical-Skunk-Raising-A-Book-of-Information-Concerning-the-Raising-of-Skunks-for-Profit_47460
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47460-h/images/cover.jpg
 creator:
   author:
     agent_name: Pratt, William Edwin
     gutenberg_agent_id: '44325'
     url: http://www.gutenberg.org/2009/agents/44325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47460#Practical-Skunk-Raising-A-Book-of-Information-Concerning-the-Raising-of-Skunks-for-Profit
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
 identifiers:
